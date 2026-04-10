@@ -1,0 +1,91 @@
+---
+title: "Demo template quarto"
+author: "Team inSileco"
+date: "2026-03-04"
+from: markdown+emoji
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    # chalkboard: true
+    transition: fade
+    highlight-style: arrow
+    css: styles.css
+    incremental: false
+    toc: false
+    toc-depth: 2
+    code-block-bg: "#f8f8f8" # Custom background color
+    code-block-border-left: "#37abc8" # Custom left border color
+    logo: img/main.svg
+---
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var logo = document.querySelector('.slide-logo');
+  if (logo) {
+    var link = document.createElement('a');
+    link.href = 'https://www.insileco.io';
+    link.target = '_blank';
+    logo.parentNode.insertBefore(link, logo);
+    link.appendChild(logo);
+  }
+});
+</script>
+```
+
+## Slide Title
+
+- this is it 
+
+:::footer
+[FRDR](https://www.frdr-dfdr.ca/)
+&nbsp; ***·*** &nbsp;
+[FAIRsharing.org](https://fairsharing.org/)
+&nbsp; ***·*** &nbsp;
+[Dataverse](https://dataverse.org/)
+:::
+
+## Slide Title {.smaller}
+
+## Slide with columns
+
+:::: {.columns}
+
+::: {.column width="40%"}
+Left column
+:::
+
+::: {.column width="60%"}
+Right column
+:::
+
+::::
+
+## Slide with speaker notes
+
+Slide content
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+## Code R 
+
+```{R}
+#| echo: true
+head(CO2)
+2 + 2
+# comment 
+cool <- function(a = 1) {
+	return(2 + 1)
+}
+```
+
+
+
+## References
+
+See [the doc](https://quarto.org/docs/presentations/revealjs/)
+
