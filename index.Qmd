@@ -1,0 +1,198 @@
+---
+title: "Knowledge Management"
+subtitle: "***Operationalizing the Regional Assessment***"
+author: "*inSileco*"
+date: "2026-04-14"
+from: markdown+emoji
+---
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var logo = document.querySelector('.slide-logo');
+  if (logo) {
+    var link = document.createElement('a');
+    link.href = 'https://www.insileco.io';
+    link.target = '_blank';
+    logo.parentNode.insertBefore(link, logo);
+    link.appendChild(logo);
+  }
+});
+</script>
+```
+
+## Let us start at the end {.transition-slide .center}
+
+### *What might the outputs of the assessment look like?*
+
+
+
+## NCEA {#useful-output .full-image-slide data-background-image="img/ncea.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
+
+::: {.notes}
+Open with the end state rather than with methods. Use this as a visual anchor: this is the kind of regional output people can work from when the assessment is structured to be useful in practice.
+:::
+
+## What questions does this answer? {.transition-slide .center}
+
+### *The current state of the region*
+
+### *Risks to assessment priorities* {.fragment}
+
+### *Pathways of effects* {.fragment}
+
+### *Management & mitigation priorities* {.fragment}
+
+
+## Then what? {.transition-slide .center}
+
+### *Single set of answers*
+
+### *Assessment quickly becomes outdated* {.fragment}
+
+### *Accumulated knowledge is scattered* {.fragment}
+
+
+## What if? {.transition-slide .center}
+
+### *Single set of answers*
+
+### ***Can be updated and reused***
+
+### ***Value grows as knowledge accumulates***
+
+
+## CEA Explorer {#cea_explorer .full-image-slide data-background-image="img/cea_explorer.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
+
+
+## Where does this start from? {.transition-slide .center}
+
+### *Interoperable metadata* 
+
+<br>
+
+::: {style="font-size: 120%;"}
+::: {.takeaway .fragment}
+***Which is simply properly planned and***
+
+***executed knowledge management***
+:::
+:::
+
+## Knowledge Management
+
+::: {style="font-size: 90%;"}
+
+:::{.callout-tip icon=false}
+### Organize the knowledge
+
+Clear terms, clear categories, clear sources.
+:::
+
+:::{.callout-important icon=false .fragment}
+### Document it well
+
+People can understand what it means and where it came from.
+:::
+
+:::{.callout-caution icon=false .fragment}
+### Connect the information
+
+Updates in one place can support many uses.
+:::
+
+:::{.callout-note icon=false .fragment}
+### Build tools on top
+
+Maps, summaries, and decision support tools become easier to maintain.
+:::
+:::
+
+
+::: {.notes}
+This is the light reverse-engineering slide. Avoid technical jargon. The message is simple: organized and connected knowledge makes updateable tools possible.
+:::
+
+
+## What does this look like? {.transition-slide .center}
+
+### *Can be as simple as a shared google sheets* 
+
+
+## ERSL Google sheet {#ersl_sheets .full-image-slide data-background-image="img/ersl_sheets.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
+
+
+<!-- https://docs.google.com/spreadsheets/d/111oHAae8iwm4S67ZW1SURDO-Zlp2gcTYpLiyhbMrdS8/edit?usp=sharing -->
+
+## What do we do with it? {.transition-slide .center}
+
+### *Knowledge Hubs* 
+
+## ERSL Hub {#ersl_hub .full-image-slide data-background-image="img/ersl_hub.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
+
+## What does this make possible? {.transition-slide .center}
+
+### *Find & Connect* 
+
+### *Update & Reuse* {.fragment}
+
+### *Flexibility* {.fragment}
+
+::: {.notes}
+This is the missing bridge slide. The hub is not just a place to store information. It makes the knowledge easier to find, connect, update, and reuse across discussions and assessments.
+:::
+
+## Why does this matter? {.transition-slide .center}
+
+### *Shared regional memory*
+
+### *Updatable context* {.fragment}
+
+### *Reuse across assessments* {.fragment}
+
+### *Operational capacity* {.fragment}
+
+
+## In a nutshell {.transition-slide .center}
+
+***Levarages the Regional Assessment***
+
+***to build capacity beyond the report***
+
+
+## When the next project arrives {.transition-slide .center}
+
+### *Build on existing context*
+
+### *Assess risk (much!) faster*
+
+### *Support defensible decisions*
+
+
+
+## Project builder {#project_builder .full-image-slide data-background-image="img/project_builder.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
+
+
+#
+
+::: {style="font-size: 110%;"}
+
+::: {.takeaway}
+***A well-structured assessment is not just an answer***
+:::
+
+::: {.takeaway .fragment}
+***It is an operational system for managing risk over time***
+:::
+
+::: {.takeaway .fragment}
+***And it begins with proper knowledge management***
+:::
+
+:::
+
+# 
+
+::: {style="font-size: 120%;"}
+***Thank you!***
+:::
