@@ -64,6 +64,14 @@ Open with the end state rather than with methods. Use this as a visual anchor: t
 
 ## CEA Explorer {#cea_explorer .full-image-slide data-background-image="img/cea_explorer.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
 
+<a class="slide-globe-link"
+   href="https://019cd4a4-de96-879e-dccf-534a7bdd2a23.share.connect.posit.cloud/?private_link_token=9Ri4yjiCBEKhIRtkPqoW3SVbkKZoX8t997EvMkV0u6k0eYhPEuWle3Vlm8viLdnr"
+   target="_blank"
+   rel="noopener noreferrer"
+   aria-label="Open external link">
+  <i class="fa-solid fa-globe"></i>
+</a>
+
 
 ## Where does this start from? {.transition-slide .center}
 
@@ -121,14 +129,28 @@ This is the light reverse-engineering slide. Avoid technical jargon. The message
 
 ## ERSL Google sheet {#ersl_sheets .full-image-slide data-background-image="img/ersl_sheets.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
 
-
-<!-- https://docs.google.com/spreadsheets/d/111oHAae8iwm4S67ZW1SURDO-Zlp2gcTYpLiyhbMrdS8/edit?usp=sharing -->
+<a class="slide-globe-link"
+   href="https://docs.google.com/spreadsheets/d/111oHAae8iwm4S67ZW1SURDO-Zlp2gcTYpLiyhbMrdS8/edit?usp=sharing"
+   target="_blank"
+   rel="noopener noreferrer"
+   aria-label="Open external link">
+  <i class="fa-solid fa-globe"></i>
+</a>
 
 ## What do we do with it? {.transition-slide .center}
 
 ### *Knowledge Hubs* 
 
 ## ERSL Hub {#ersl_hub .full-image-slide data-background-image="img/ersl_hub.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
+
+<a class="slide-globe-link"
+   href="https://019cd85e-37b5-a29b-fb8c-df7df4c6e1b1.share.connect.posit.cloud/?private_link_token=ZkNZtBUjcXOk5ivAH4WIQy0nOQYppE2flClTVMDzIKR0O8JkS2xVNNaOZuLeBkWk"
+   target="_blank"
+   rel="noopener noreferrer"
+   aria-label="Open external link">
+  <i class="fa-solid fa-globe"></i>
+</a>
+
 
 ## What does this make possible? {.transition-slide .center}
 
@@ -172,6 +194,13 @@ This is the missing bridge slide. The hub is not just a place to store informati
 
 ## Project builder {#project_builder .full-image-slide data-background-image="img/project_builder.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
 
+<a class="slide-globe-link"
+   href="https://019cd4a4-de96-879e-dccf-534a7bdd2a23.share.connect.posit.cloud/?private_link_token=9Ri4yjiCBEKhIRtkPqoW3SVbkKZoX8t997EvMkV0u6k0eYhPEuWle3Vlm8viLdnr"
+   target="_blank"
+   rel="noopener noreferrer"
+   aria-label="Open external link">
+  <i class="fa-solid fa-globe"></i>
+</a>
 
 #
 
