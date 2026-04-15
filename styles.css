@@ -216,3 +216,23 @@
 .reveal .slide.full-image-slide h2 {
   display: none;
 }
+
+.remark-slide-content {
+  position: relative;
+  overflow: visible;
+}
+
+.slide-globe-link {
+  position: absolute;
+  top: 560px;
+  left: 1190px;
+  font-size: 28px;
+  line-height: 1;
+  color: #355c67;
+  text-decoration: none;
+  z-index: 999;
+}
+
+.slide-globe-link:hover {
+  color: #355c67;
+}
