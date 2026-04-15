@@ -1,6 +1,6 @@
 ---
-title: "Knowledge Management"
-subtitle: "***Operationalizing the Regional Assessment***"
+title: "Gestion des connaissances"
+subtitle: "***Opérationnaliser l’évaluation régionale***"
 author: "*inSileco*"
 date: "2026-04-14"
 from: markdown+emoji
@@ -21,45 +21,45 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 ```
 
-## Let us start at the end {.transition-slide .center}
+## Commençons par la fin {.transition-slide .center}
 
-### *What might the outputs of the assessment look like?*
+### *À quoi pourraient ressembler les résultats de l’évaluation?*
 
 
 
 ## NCEA {#useful-output .full-image-slide data-background-image="img/ncea.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
 
 ::: {.notes}
-Open with the end state rather than with methods. Use this as a visual anchor: this is the kind of regional output people can work from when the assessment is structured to be useful in practice.
+Commencer par l’état final plutôt que par les méthodes. Utiliser ceci comme point d’ancrage visuel : c’est le type de résultat régional sur lequel les gens peuvent travailler lorsque l’évaluation est structurée pour être utile en pratique.
 :::
 
-## What questions does this answer? {.transition-slide .center}
+## Questions adressées? {.transition-slide .center}
 
-### *The current state of the region*
+### *L’état actuel de la région*
 
-### *Risks to assessment priorities* {.fragment}
+### *Les risques pour les priorités de l’évaluation* {.fragment}
 
-### *Pathways of effects* {.fragment}
+### *Les voies d’impact* {.fragment}
 
-### *Management & mitigation priorities* {.fragment}
-
-
-## Then what? {.transition-slide .center}
-
-### *Single set of answers*
-
-### *Assessment quickly becomes outdated* {.fragment}
-
-### *Accumulated knowledge is scattered* {.fragment}
+### *Les priorités de gestion et d’atténuation* {.fragment}
 
 
-## What if? {.transition-slide .center}
+## Et ensuite? {.transition-slide .center}
 
-### *Single set of answers*
+### *Un ensemble unique de réponses*
 
-### ***Can be updated and reused***
+### *L’évaluation devient rapidement désuète* {.fragment}
 
-### ***Value grows as knowledge accumulates***
+### *Les connaissances accumulées sont dispersées* {.fragment}
+
+
+## Et si? {.transition-slide .center}
+
+### *Un ensemble unique de réponses*
+
+### ***Peut être mis à jour et réutilisé***
+
+### ***La valeur augmente à mesure que les connaissances s’accumulent***
 
 
 ## CEA Explorer {#cea_explorer .full-image-slide data-background-image="img/cea_explorer.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
@@ -68,78 +68,78 @@ Open with the end state rather than with methods. Use this as a visual anchor: t
    href="https://019cd4a4-de96-879e-dccf-534a7bdd2a23.share.connect.posit.cloud/?private_link_token=9Ri4yjiCBEKhIRtkPqoW3SVbkKZoX8t997EvMkV0u6k0eYhPEuWle3Vlm8viLdnr"
    target="_blank"
    rel="noopener noreferrer"
-   aria-label="Open external link">
+   aria-label="Ouvrir un lien externe">
   <i class="fa-solid fa-globe"></i>
 </a>
 
 
-## Where does this start from? {.transition-slide .center}
+## Par où commencer? {.transition-slide .center}
 
-### *Interoperable metadata* 
+### *Des métadonnées interopérables* 
 
 <br>
 
 ::: {style="font-size: 120%;"}
 ::: {.takeaway .fragment}
-***Which is simply properly planned and***
+***Ce qui revient simplement à une***
 
-***executed knowledge management***
+***gestion des connaissances bien planifiée et exécutée***
 :::
 :::
 
-## Knowledge Management
+## Gestion des connaissances
 
 ::: {style="font-size: 90%;"}
 
 :::{.callout-tip icon=false}
-### Organize the knowledge
+### Organiser les connaissances
 
-Clear terms, clear categories, clear sources.
+Des termes clairs, des catégories claires, des sources claires.
 :::
 
 :::{.callout-important icon=false .fragment}
-### Document it well
+### Bien documenter
 
-People can understand what it means and where it came from.
+Les gens peuvent comprendre ce que cela signifie et d’où cela provient.
 :::
 
 :::{.callout-caution icon=false .fragment}
-### Connect the information
+### Connecter l’information
 
-Updates in one place can support many uses.
+Des mises à jour en un seul endroit peuvent soutenir de nombreux usages.
 :::
 
 :::{.callout-note icon=false .fragment}
-### Build tools on top
+### Construire des outils par-dessus
 
-Maps, summaries, and decision support tools become easier to maintain.
+Les cartes, les synthèses et les outils d’aide à la décision deviennent plus faciles à maintenir.
 :::
 :::
 
 
 ::: {.notes}
-This is the light reverse-engineering slide. Avoid technical jargon. The message is simple: organized and connected knowledge makes updateable tools possible.
+Il s’agit d’une diapositive de rétro-ingénierie simplifiée. Éviter le jargon technique. Le message est simple : des connaissances organisées et connectées rendent possibles des outils pouvant être mis à jour.
 :::
 
 
-## What does this look like? {.transition-slide .center}
+## À quoi cela ressemble-t-il? {.transition-slide .center}
 
-### *Can be as simple as a shared google sheets* 
+### *Peut être aussi simple qu’une feuille Google partagée* 
 
 
-## ERSL Google sheet {#ersl_sheets .full-image-slide data-background-image="img/ersl_sheets.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
+## Feuille Google ERSL {#ersl_sheets .full-image-slide data-background-image="img/ersl_sheets.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
 
 <a class="slide-globe-link"
    href="https://docs.google.com/spreadsheets/d/111oHAae8iwm4S67ZW1SURDO-Zlp2gcTYpLiyhbMrdS8/edit?usp=sharing"
    target="_blank"
    rel="noopener noreferrer"
-   aria-label="Open external link">
+   aria-label="Ouvrir un lien externe">
   <i class="fa-solid fa-globe"></i>
 </a>
 
-## What do we do with it? {.transition-slide .center}
+## Qu’en fait-on? {.transition-slide .center}
 
-### *Knowledge Hubs* 
+### *Pôles de connaissances* 
 
 ## ERSL Hub {#ersl_hub .full-image-slide data-background-image="img/ersl_hub.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
 
@@ -147,58 +147,58 @@ This is the light reverse-engineering slide. Avoid technical jargon. The message
    href="https://019cd85e-37b5-a29b-fb8c-df7df4c6e1b1.share.connect.posit.cloud/?private_link_token=ZkNZtBUjcXOk5ivAH4WIQy0nOQYppE2flClTVMDzIKR0O8JkS2xVNNaOZuLeBkWk"
    target="_blank"
    rel="noopener noreferrer"
-   aria-label="Open external link">
+   aria-label="Ouvrir un lien externe">
   <i class="fa-solid fa-globe"></i>
 </a>
 
 
-## What does this make possible? {.transition-slide .center}
+## Que rend cela possible? {.transition-slide .center}
 
-### *Find & Connect* 
+### *Trouver et connecter* 
 
-### *Update & Reuse* {.fragment}
+### *Mettre à jour et réutiliser* {.fragment}
 
-### *Flexibility* {.fragment}
+### *Flexibilité* {.fragment}
 
 ::: {.notes}
-This is the missing bridge slide. The hub is not just a place to store information. It makes the knowledge easier to find, connect, update, and reuse across discussions and assessments.
+Il s’agit de la diapositive de transition manquante. Le pôle n’est pas seulement un endroit pour stocker l’information. Il rend les connaissances plus faciles à trouver, relier, mettre à jour et réutiliser dans les discussions et les évaluations.
 :::
 
-## Why does this matter? {.transition-slide .center}
+## Pourquoi est-ce important? {.transition-slide .center}
 
-### *Shared regional memory*
+### *Une mémoire régionale partagée*
 
-### *Updatable context* {.fragment}
+### *Un contexte actualisable* {.fragment}
 
-### *Reuse across assessments* {.fragment}
+### *La réutilisation entre évaluations* {.fragment}
 
-### *Operational capacity* {.fragment}
-
-
-## In a nutshell {.transition-slide .center}
-
-***Levarages the Regional Assessment***
-
-***to build capacity beyond the report***
+### *La capacité opérationnelle* {.fragment}
 
 
-## When the next project arrives {.transition-slide .center}
+## En bref {.transition-slide .center}
 
-### *Build on existing context*
+***Tire parti de l’évaluation régionale***
 
-### *Assess risk (much!) faster*
-
-### *Support defensible decisions*
+***pour développer des capacités au-delà du rapport***
 
 
+## Quand le prochain projet arrive {.transition-slide .center}
 
-## Project builder {#project_builder .full-image-slide data-background-image="img/project_builder.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
+### *S’appuyer sur le contexte existant*
+
+### *Évaluer les risques (beaucoup!) plus rapidement*
+
+### *Appuyer des décisions défendables*
+
+
+
+## Constructeur de projet {#project_builder .full-image-slide data-background-image="img/project_builder.png" data-background-size="contain" data-background-position="center center" data-background-color="white"}
 
 <a class="slide-globe-link"
    href="https://019cd4a4-de96-879e-dccf-534a7bdd2a23.share.connect.posit.cloud/?private_link_token=9Ri4yjiCBEKhIRtkPqoW3SVbkKZoX8t997EvMkV0u6k0eYhPEuWle3Vlm8viLdnr"
    target="_blank"
    rel="noopener noreferrer"
-   aria-label="Open external link">
+   aria-label="Ouvrir un lien externe">
   <i class="fa-solid fa-globe"></i>
 </a>
 
@@ -207,15 +207,15 @@ This is the missing bridge slide. The hub is not just a place to store informati
 ::: {style="font-size: 110%;"}
 
 ::: {.takeaway}
-***A well-structured assessment is not just an answer***
+***Une évaluation bien structurée n’est pas seulement une réponse***
 :::
 
 ::: {.takeaway .fragment}
-***It is an operational system for managing risk over time***
+***C’est un système opérationnel pour gérer les risques dans le temps***
 :::
 
 ::: {.takeaway .fragment}
-***And it begins with proper knowledge management***
+***Et cela commence par une bonne gestion des connaissances***
 :::
 
 :::
@@ -223,5 +223,5 @@ This is the missing bridge slide. The hub is not just a place to store informati
 # 
 
 ::: {style="font-size: 120%;"}
-***Thank you!***
+***Merci!***
 :::
